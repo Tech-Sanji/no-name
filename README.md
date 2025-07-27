@@ -11,7 +11,7 @@ git remote add origin https://github.com/Tech-Sanji/repo-name.git
 
 git push -u origin main
 
-
+----------------------------------------------------------------------------------
 
 git remote add origin https://github.com/Tech-Sanji/new.git
 
